@@ -7,6 +7,7 @@ public class Actividad1 {
 		System.out.println("Hola");
 		System.out.println("Soy una nueva linea");
 		System.out.println("Yo tambien");
+		System.out.println("Adios");
 		
 
 	}
